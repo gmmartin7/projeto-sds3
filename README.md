@@ -13,10 +13,7 @@ A aplicação consiste em um Dashboard de análise de desempenho de vendas por d
 ## Layout web
 ![dsdeliver](https://github.com/gmmartin7/assets/blob/main/dsvendas.gif)
 
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
+![Web 1](https://github.com/gmmartin7/assets/blob/main/dashboardpc.png)
 
 ## Layout mobile
 ![Mobile 1](https://github.com/gmmartin7/assets/blob/main/dashboard12.jpg) ![Mobile 2](https://github.com/gmmartin7/assets/blob/main/dashbd.jpg)
