@@ -6,9 +6,9 @@ dsVendas
 
 https://martins-dsvendas.netlify.app
 
-DsPesquisa / Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DsVendas é uma aplicação full stack web construída durante a 3ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+A aplicação consiste em um Dashboard de análise de desempenho de vendas por diferentes perspectivas,que exibi dados fornecidos por um back-end construído com Spring Boot.
 
 ## Layout web
 ![dsdeliver](https://github.com/fhilips/dspesquisa/blob/master/front-web/src/assets/dspesquisa-telas.gif)
