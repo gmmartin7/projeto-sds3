@@ -11,7 +11,7 @@ DsVendas é uma aplicação full stack web construída durante a 3ª edição da
 A aplicação consiste em um Dashboard de análise de desempenho de vendas por diferentes perspectivas,que exibi dados fornecidos por um back-end construído com Spring Boot.
 
 ## Layout web
-![dsdeliver](https://github.com/fhilips/dspesquisa/blob/master/front-web/src/assets/dspesquisa-telas.gif)
+![dsdeliver](https://github.com/gmmartin7/assets/blob/main/dsvendas.gif)
 
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
