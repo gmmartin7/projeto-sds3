@@ -42,7 +42,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/fhilips/dspesquisa
+git clone https://github.com/gmmartin7/projeto-sds3
 # entrar na pasta do projeto back end
 cd backend
 # executar o projeto
@@ -54,7 +54,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/fhilips/dspesquisa
+git clone https://github.com/gmmartin7/projeto-sds3
 # entrar na pasta do projeto front end web
 cd front-web
 # instalar dependências
