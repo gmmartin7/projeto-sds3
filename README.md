@@ -19,7 +19,7 @@ A aplicação consiste em um Dashboard de análise de desempenho de vendas por d
 
 
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Mobile 1](https://github.com/gmmartin7/assets/blob/main/dashboard12.jpg) ![Mobile 2](https://github.com/gmmartin7/assets/blob/main/dashbd.jpg)
 
 # Tecnologias utilizadas
 ## Back end
